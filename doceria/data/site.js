@@ -1,7 +1,7 @@
 // Edite aqui: nome, WhatsApp e cardápio.
 export const site = {
   name: "Doce Camada",
-  whatsapp: process.env.NEXT_PUBLIC_WHATSAPP || "5500000000000",
+  whatsapp: process.env.NEXT_PUBLIC_WHATSAPP || "5531988685442",
   instagram: "",
 };
 
