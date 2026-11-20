@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+
+# env com dados sensíveis (WhatsApp, etc.)
+.env.local
+.env*.local
+
+# logs
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
